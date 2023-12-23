@@ -1,0 +1,35 @@
+{
+  "images" : [
+    {
+<<<<<<< HEAD:FakeNFT/Assets.xcassets/Profile/plus.imageset/Contents.json
+      "filename" : "plus.png",
+=======
+      "filename" : "Light.png",
+>>>>>>> 05985f48a6956abe56e5a88d9e95632a2b474f24:FakeNFT/Resources/Assets.xcassets/images/backward.imageset/Contents.json
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+<<<<<<< HEAD:FakeNFT/Assets.xcassets/Profile/plus.imageset/Contents.json
+      "filename" : "plus2x.png",
+=======
+      "filename" : "Light@2x.png",
+>>>>>>> 05985f48a6956abe56e5a88d9e95632a2b474f24:FakeNFT/Resources/Assets.xcassets/images/backward.imageset/Contents.json
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+<<<<<<< HEAD:FakeNFT/Assets.xcassets/Profile/plus.imageset/Contents.json
+      "filename" : "plus3x.png",
+=======
+      "filename" : "Light@3x.png",
+>>>>>>> 05985f48a6956abe56e5a88d9e95632a2b474f24:FakeNFT/Resources/Assets.xcassets/images/backward.imageset/Contents.json
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

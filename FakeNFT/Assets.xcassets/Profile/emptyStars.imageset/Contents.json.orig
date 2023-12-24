@@ -6,18 +6,16 @@
       "scale" : "1x"
     },
     {
-<<<<<<< HEAD:FakeNFT/Assets.xcassets/Profile/emptyStars.imageset/Contents.json
+FakeNFT/Assets.xcassets/Profile/emptyStars.imageset/Contents.json
       "filename" : "emptyStars@2x.png",
-=======
->>>>>>> 05985f48a6956abe56e5a88d9e95632a2b474f24:FakeNFT/Resources/Assets.xcassets/images/like_inactive.imageset/Contents.json
+ 05985f48a6956abe56e5a88d9e95632a2b474f24:FakeNFT/Resources/Assets.xcassets/images/like_inactive.imageset/Contents.json
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-<<<<<<< HEAD:FakeNFT/Assets.xcassets/Profile/emptyStars.imageset/Contents.json
+ HEAD:FakeNFT/Assets.xcassets/Profile/emptyStars.imageset/Contents.json
       "filename" : "emptyStars@3x.png",
-=======
->>>>>>> 05985f48a6956abe56e5a88d9e95632a2b474f24:FakeNFT/Resources/Assets.xcassets/images/like_inactive.imageset/Contents.json
+ 05985f48a6956abe56e5a88d9e95632a2b474f24:FakeNFT/Resources/Assets.xcassets/images/like_inactive.imageset/Contents.json
       "idiom" : "universal",
       "scale" : "3x"
     }
